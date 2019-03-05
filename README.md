@@ -1,2 +1,2 @@
-# MusicPlayerwithEmotionAnalysis-DuyguAnalizliM-zik-alar
+# MusicPlayerwithEmotionAnalysis-DuyguAnalizliMuzikCalar
 MusicPlayerwithEmotionAnalysis-DuyguAnalizliMüzikÇalar
